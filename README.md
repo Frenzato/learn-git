@@ -2,9 +2,10 @@ This README is written in Linux :Penguin and totally unrelated to the content
 
 this is a 'code' example
 
-'''phyton
+```phyton
 print("This should be formated")
-'''
+```
 
-'''Java
+```Java
 System.out.println("And this is a sentence") 
+```
